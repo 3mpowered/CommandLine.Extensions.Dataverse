@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <PackageReference Include="CommandDotNet" Version="7.0.4" />
+    <PackageReference Include="CommandDotNet.Spectre" Version="3.0.2" />
+    <PackageReference Include="Empowered.CommandLine.Extensions" Version="1.0.0" />
+    <PackageReference Include="Microsoft.PowerPlatform.Dataverse.Client" Version="1.1.32" />
+  </ItemGroup>
+</Project>
