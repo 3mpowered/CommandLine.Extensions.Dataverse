@@ -6,7 +6,7 @@
         <Description>A middleware for CommandDotNet testing the connection of the injected dataverse IOrganizationService</Description>
         <RepositoryType>git</RepositoryType>
         <RepositoryUrl>https://github.com/3mpowered/CommandLine.Extensions.Dataverse</RepositoryUrl>
-        <PackageProjectUrl>Thttps://github.com/3mpowered/CommandLine.Extensions.Dataverse</PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/3mpowered/CommandLine.Extensions.Dataverse</PackageProjectUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
