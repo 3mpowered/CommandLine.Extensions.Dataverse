@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/3mpowered/CommandLine.Extensions.Dataverse/compare/v1.0.0...v1.0.1) (2024-09-04)
+
+
+### Bug Fixes
+
+* fix release ([4ad3314](https://github.com/3mpowered/CommandLine.Extensions.Dataverse/commit/4ad331422502cd27476699ba880ca9ca9eac1801))
+
 # 1.0.0 (2024-09-04)
 
 
